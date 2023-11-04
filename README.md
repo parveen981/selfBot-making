@@ -1,0 +1,3 @@
+# selfBot-making
+these code are of self made bot
+this is a working bot and here you have to do one thing that you have to change your api because  my api does not work in your device...
